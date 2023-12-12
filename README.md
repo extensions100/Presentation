@@ -8,7 +8,7 @@ Extensions100 is a web project dedicated to improving your browsing experience t
 
 - **Diverse Extensions:** Explore a variety of browser extensions designed to enhance different aspects of your online experience.
 
-- **Free:** All extensions are provided for free.
+- **Free:** All extensions are provided for free use.
 
 - **Voluntary Contributions:** The project is sustained through contributions from users who appreciate the utility of these extensions. You can support development through donations via PayPal or Patreon.
 
